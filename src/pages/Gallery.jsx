@@ -1,11 +1,9 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { Camera } from "lucide-react";
 
 import PageHeader from "../components/PageHeader";
 
 function Gallery() {
-  // Placeholder images for the gallery representing the themes
   const galleryItems = [
     {
       type: "Wheelchair distributions",

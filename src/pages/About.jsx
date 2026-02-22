@@ -1,6 +1,5 @@
 import React from "react";
-import { motion } from "framer-motion";
-import { Heart, Target, Eye, Star } from "lucide-react";
+import { Target, Eye, Star } from "lucide-react";
 
 import PageHeader from "../components/PageHeader";
 

@@ -1,5 +1,4 @@
 import React from "react";
-import { motion } from "framer-motion";
 import { MapPin, Phone, Mail, CreditCard, Heart } from "lucide-react";
 
 import PageHeader from "../components/PageHeader";
